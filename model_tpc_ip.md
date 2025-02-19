@@ -1,4 +1,5 @@
-#**Porównanie modelu OSI i TPC/IP**
+Porównanie modelu OSI i TPC/IP
+===================
 | Nazwa | Warstwy | Opis |
 |-------|---------|------|
 |OSI| 7 warstwa aplikacji|Umożliwia komunikację aplikacji użytkownika z siecią (np. HTTP, FTP, DNS).|
@@ -13,7 +14,8 @@
 ||2 warstwa sieciowa|Zajmuje się adresowaniem, routingiem i przekazywaniem pakietów (np. IP, ICMP).
 ||1 warstwa dostępu do sieci| Odpowiada za komunikację z fizycznym medium, kontrolę dostępu do medium transmisyjnego (np. Ethernet).|
 
-#**Najpopularniejsze protokoły TCP/IP**
+Najpopularniejsze protokoły TCP/IP
+=======================
 |Nazwa|Opis|Zastosowanie|
 |-----|----|---|
 |TCP (Transmission Control Protocol)| Protokół transportowy zapewniający niezawodną komunikację między urządzeniami. TCP gwarantuje, że dane zostaną dostarczone w odpowiedniej kolejności i bez błędów. Używa mechanizmów takich jak potwierdzenia, retransmisje i kontrola przepływu.|Strony internetowe (HTTP/HTTPS), poczta elektroniczna (SMTP), transfer plików (FTP).|
